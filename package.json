@@ -1,0 +1,28 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jodibell/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jodibell/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/jodibell/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cli.js": "^1.0.2",
+    "dotenv": "^7.0.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.2.2",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
